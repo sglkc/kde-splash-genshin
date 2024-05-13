@@ -1,17 +1,17 @@
 [Desktop Entry]
-Comment=QuarksSplash with Genshin Loading for PlasmaKDE
+Comment=Genshin for PlasmaKDE
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
-Name=QuarksDarkGenshin
+Name=Genshin
 Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=adhe,sglkc
+X-KDE-PluginInfo-Author=sglkc
 X-KDE-PluginInfo-Category=
-X-KDE-PluginInfo-Email=adhemark@gmail.com
-X-KDE-PluginInfo-License=GPLv2+
-X-KDE-PluginInfo-Name=QuarksDarkGenshin
+X-KDE-PluginInfo-Email=sglkc@gmail.com
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Name=Genshin
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=
 X-Plasma-MainScript=defaults
