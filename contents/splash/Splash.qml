@@ -1,17 +1,21 @@
-import QtQuick 2.5
-import QtMultimedia 5.13
+import QtMultimedia
+import QtQuick
 
-Item {
+Rectangle {
+    id: root
+    color: "white"
+
     MediaPlayer {
-        id: background
+        id: player
         autoPlay: true
-        source: 'videos/loading.mp4'
-        volume: 50
+        source: "videos/loading.mp4"
+        videoOutput: videoOutput
+        loops: 0
     }
 
     VideoOutput {
+        id: videoOutput
         fillMode: VideoOutput.PreserveAspectCrop
         anchors.fill: parent
-        source: background
     }
 }

@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "sglkc@protonmail.com",
+                "Name": "Seya"
+            }
+        ],
+        "Category": "",
+        "Description": "Simple Genshin Splash Screen",
+        "Id": "Genshin",
+        "License": "MIT",
+        "Name": "Genshin Loading",
+        "Website": "https://seya.zip"
+    }
+}
